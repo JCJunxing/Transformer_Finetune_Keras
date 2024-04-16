@@ -1,0 +1,1 @@
+This repository contains a series of Jupyter notebooks detailing an introductory notebook on the capabilities of transformers, along with the full training process and fine-tuning of models using Keras.
